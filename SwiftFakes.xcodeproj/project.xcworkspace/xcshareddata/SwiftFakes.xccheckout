@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0E251A23-B28A-4F09-9106-513ABDC43134</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwiftFakes</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BA902E9C19F23DD7B3B4840CA671C227DE0CACC6</key>
+		<string>https://github.com/mitochondrion/SwiftFakes.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SwiftFakes.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BA902E9C19F23DD7B3B4840CA671C227DE0CACC6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mitochondrion/SwiftFakes.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BA902E9C19F23DD7B3B4840CA671C227DE0CACC6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BA902E9C19F23DD7B3B4840CA671C227DE0CACC6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SwiftFakes</string>
+		</dict>
+	</array>
+</dict>
+</plist>
